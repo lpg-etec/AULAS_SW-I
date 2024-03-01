@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\bin\Debug\net6.0\ProjetoLampada.exe
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\bin\Debug\net6.0\ProjetoLampada.deps.json
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\bin\Debug\net6.0\ProjetoLampada.runtimeconfig.json
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\bin\Debug\net6.0\ProjetoLampada.dll
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\bin\Debug\net6.0\ProjetoLampada.pdb
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ProjetoLampada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ProjetoLampada.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ProjetoLampada.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ProjetoLampada.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ProjetoLampada.dll
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\refint\ProjetoLampada.dll
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ProjetoLampada.pdb
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ProjetoLampada.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ref\ProjetoLampada.dll
+C:\Users\LAB4\Desktop\ProjetoLampada\ProjetoLampada\ProjetoLampada\obj\Debug\net6.0\ProjetoLampada.csproj.AssemblyReference.cache
