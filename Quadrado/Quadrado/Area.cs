@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Quadrado
-{
+{ 
     class Area
     {
         public int Base { get; set; }
@@ -18,6 +18,18 @@ namespace Quadrado
         public int Calcular()
         {
             return this.Base * this.Altura;
+        }
+        public string MostrarDetalhes()
+        {
+            string c;
+            if (this.Base == this.Altura)
+            {
+                c = "Quadrado";
+            } else
+            {
+                c = "Retângulo";
+            }
+            return $"{this.Base} * {this.Altura} = {this.Calcular()} ({c})";
         }
     }
 }
