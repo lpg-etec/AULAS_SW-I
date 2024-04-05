@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{83433F54-BBB1-4EF2-A41F-5B0D8FFA37FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lampada", "Lampada\Lampada.csproj", "{A6B70A23-DBC5-4DF1-8E95-0A9D274571B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83433F54-BBB1-4EF2-A41F-5B0D8FFA37FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83433F54-BBB1-4EF2-A41F-5B0D8FFA37FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83433F54-BBB1-4EF2-A41F-5B0D8FFA37FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83433F54-BBB1-4EF2-A41F-5B0D8FFA37FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B70A23-DBC5-4DF1-8E95-0A9D274571B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B70A23-DBC5-4DF1-8E95-0A9D274571B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B70A23-DBC5-4DF1-8E95-0A9D274571B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B70A23-DBC5-4DF1-8E95-0A9D274571B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0FCAA9C5-FF7A-454D-9E47-562B9E2BA4C1}
+		SolutionGuid = {29DEA86F-E5C3-42B9-8FD1-D89D5EB603D9}
 	EndGlobalSection
 EndGlobal
