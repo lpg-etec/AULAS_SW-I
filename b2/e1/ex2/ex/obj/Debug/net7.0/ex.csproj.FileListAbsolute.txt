@@ -1,0 +1,15 @@
+C:\Users\LAB4\source\repos\ex\ex\bin\Debug\net7.0\ex.exe
+C:\Users\LAB4\source\repos\ex\ex\bin\Debug\net7.0\ex.deps.json
+C:\Users\LAB4\source\repos\ex\ex\bin\Debug\net7.0\ex.runtimeconfig.json
+C:\Users\LAB4\source\repos\ex\ex\bin\Debug\net7.0\ex.dll
+C:\Users\LAB4\source\repos\ex\ex\bin\Debug\net7.0\ex.pdb
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ex.csproj.AssemblyReference.cache
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ex.AssemblyInfoInputs.cache
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ex.AssemblyInfo.cs
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ex.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ex.dll
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\refint\ex.dll
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ex.pdb
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ex.genruntimeconfig.cache
+C:\Users\LAB4\source\repos\ex\ex\obj\Debug\net7.0\ref\ex.dll
