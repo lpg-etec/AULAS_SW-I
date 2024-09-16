@@ -63,7 +63,7 @@
                                     <tbody>
                                         <?php
                                             include('conecta.php');
-                                            $query = $conexao->query('SELECT * FROM cadastro');
+                                            $query = $conexao->query('SELECT * FROM clientes');
                                             while ($u = $query->fetch_assoc()) {
                                                 echo "<tr>";
                                                 echo "<td>".$u['id_cliente']."</td>";
