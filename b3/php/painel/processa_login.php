@@ -1,7 +1,8 @@
 <?php
+    session_start();
     require('conecta.php');
     $email = $_POST['email'];
-    $senha = $_POST['senha'];
+    $senha = md5($_POST['senha']);
 
     $consulta = "SELECT * FROM usuarios WHERE email = '$email' AND senha = '$senha'";
 
@@ -9,7 +10,10 @@
     $registros = $resultado->num_rows;
     $resultado_usuario = mysqli_fetch_assoc($resultado);
 
-    if($registros != 0) {
+    if($registros == 1){
+        $_SESSION['id'] = $resultado_usuario['id'];
+        $_SESSION['nome'] = $resultado_usuario['nome'];
+        $_SESSION['email'] = $resultado_usuario['email'];
         header('Location: index.php');
     } else {
         header('Location: ../index.html');

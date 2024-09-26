@@ -4,9 +4,9 @@
     $senha = "";
     $banco = "cadastro_cliente";
 
-    $conexao = new mysqli($servidor, $usuario, $senha, $banco);
+    $conexao = new mysqli($servidor,$usuario,$senha,$banco);
 
-    if(mysqli_connect_errno()) {
-        echo 'connect';
+    if(mysqli_connect_errno()){
+        echo "ERRO DE CONEXÃO!";
     }
 ?>
